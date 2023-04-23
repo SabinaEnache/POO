@@ -11,6 +11,7 @@ Daca se extrage de pe un card premium sa primeasca inapoi cashback / 100 * suma 
 
 Cerint in plus:
 - sa se scada comisionul persoanelor care au card premium cu 1 (dynamic cast)
+-la crearea unui card nou, sa se adauge un bonus de 100 lei (pointer la clasa de baza)
 -sa se afiseze cate carduri au fost crearte (functii si atribute statice)
 */
 
